@@ -1,4 +1,4 @@
-# General Commands for CM3/RPi
+# General Commands
 ```
 sudo raspi-config
 sudo apt update
